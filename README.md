@@ -12,7 +12,6 @@ Time Complexity of Static Arrays
 | Remove at the End     | O (1)                 |      |
 | Insert at the Middle  | O (n)                 |      |
 | Remove at the Middle  | O (n)                 |      |
-|-----------------------|-----------------------|------|
 
 
 Time Complexity of Dynamic Arrays
@@ -25,7 +24,6 @@ Time Complexity of Dynamic Arrays
 | Remove at the End     | O (1)                 |                       |
 | Insert at the Middle  | O (n)                 |                       |
 | Remove at the Middle  | O (n)                 |                       |
-|-----------------------|-----------------------|-----------------------|
 
 
 #### LinkedList
