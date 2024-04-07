@@ -5,7 +5,7 @@
 Time Complexity of Static Arrays
 
 | Operation             | Big O Time Complexity | Note |
-| ---                   | ---                   |      |
+| ---                   | ---                   | ---  |
 | Read n-th Element     | O (1)                 |      |
 | Write to n-th Element | O (1)                 |      |
 | Insert at the End     | O (1)                 |      |
@@ -17,7 +17,7 @@ Time Complexity of Static Arrays
 Time Complexity of Dynamic Arrays
 
 | Operation             | Big O Time Complexity | Note                  |
-| ---                   | ---                   |                       |
+| ---                   | ---                   | ---                   |
 | Read n-th Element     | O (1)                 |                       |
 | Write to n-th Element | O (1)                 |                       |
 | Insert at the End     | O (1)                 | O (n) for resizing 2n |
